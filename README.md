@@ -1,2 +1,2 @@
 # typescript-sample
-typescript
+TypeScriptとjestを使ったサンプルコード
